@@ -126,7 +126,7 @@ color: #2e2f42;
     color: #FFFFFF;
     background-color: #2E2F42;
     padding: 188px 0;
-    max-width: 1440px;
+    margin: 0 auto;
 }
 .hero-btn {
     display: block;
