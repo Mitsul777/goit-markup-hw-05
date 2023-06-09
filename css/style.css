@@ -515,6 +515,10 @@ color: #F4F4FD;
     border: 1px solid #e7e9fc;
     border-top: none;
 }
+.app-card {
+    position: relative;
+    overflow: hidden;
+}
 .other-h {
     margin-bottom: 8px;
 }
