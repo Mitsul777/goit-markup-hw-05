@@ -525,10 +525,10 @@ color: #F4F4FD;
 .app-list {
     width: calc((100% - 48px) / 3); 
 }
-.app-list:hover .portfolio-card {
+.portfolio-link:hover .portfolio-card {
     transform: translateY(0);
 }
-.app-list:focus .portfolio-card {
+.portfolio-link:focus .portfolio-card {
     transform: translateY(0);
 }
 .foot-cont {
