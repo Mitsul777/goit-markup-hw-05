@@ -97,7 +97,9 @@ color: #2e2f42;
     color: var(--dark-text-color);
     position: relative;
 }
-
+.list-link {
+    color: #404bbf;
+} 
 .list-link::after {
     content: '';
     position: absolute;
