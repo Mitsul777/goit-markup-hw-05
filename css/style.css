@@ -528,6 +528,9 @@ color: #F4F4FD;
 .app-list:hover .portfolio-card {
     transform: translateY(0);
 }
+.app-list:focus .portfolio-card {
+    transform: translateY(0);
+}
 .foot-cont {
     margin-right: 120px;
 }
