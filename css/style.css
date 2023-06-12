@@ -103,7 +103,7 @@ color: #2e2f42;
     position: absolute;
     left: 0;
     top: 69px;
-    bottom: 0px;
+    bottom: -1px;
     height: 4px;
     background-color: #404bbf;
     border-radius: 2px;
