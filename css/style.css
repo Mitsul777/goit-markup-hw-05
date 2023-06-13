@@ -651,9 +651,9 @@ color: #F4F4FD;
 .modal-svg {
     transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
-.modal-svg:focus {
+.modal-close:hover .modal-svg {
     fill: #ffffff;
 }
-.modal-svg:hover {
+.modal-close:focus .modal-svg {
     fill: #ffffff;
 }
